@@ -11,8 +11,5 @@
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)</br>
 <br>
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=miinhho)](https://solved.ac/miinhho)&nbsp;
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=miinhho&theme=warm)</br>
-<br>
 
 </div>
