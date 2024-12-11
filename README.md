@@ -116,4 +116,12 @@
       alt="Freelancer"
     />
   </section>
+  <section align="center">
+    <h3>
+      ☎️ Contact ☎️
+    </h3>
+    <p>
+      mjang6988@gmail.com
+    </p>
+  </section>
 </main>
