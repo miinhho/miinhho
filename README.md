@@ -72,7 +72,7 @@
 
 <br clear="both">
 
-<h4 align="center">Business: mjang6988@proton.me<br>Personal: mjang6988@gmail.com</h4>
+<h4 align="center">Contact: mjang6988@gmail.com</h4>
 
 ###
 
