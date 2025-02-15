@@ -133,8 +133,19 @@
 
   <br clear="both" />
 
-  <h4>
+  <h3>
     Contact: mjang6988@gmail.com
+  </h3>
+
+  <br />
+  
+  <h4>
+    <a href="https://miinhho.notion.site/17fd0402c99580f3b233f42b52db1ba7?v=17fd0402c9958144a6da000c2e627c4e">
+      Study Note
+    </a>
+    <p>
+      My personal note to organize what I learned
+    </p>
   </h4>
 
   <br />
