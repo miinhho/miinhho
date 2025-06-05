@@ -7,7 +7,9 @@
 [![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)](#)  
 
 [![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)](#)
-[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)  
+[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)
+[![Zustand](https://img.shields.io/badge/Zustand-614e3c?logo=react&logoColor=000)](#)  
+
 
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 [![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)](#)
