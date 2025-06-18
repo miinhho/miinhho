@@ -7,6 +7,7 @@
 [![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)](#)  
 
 [![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)](#)
+[![React Query](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff)](#)
 [![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)
 [![Zustand](https://img.shields.io/badge/Zustand-614e3c?logo=react&logoColor=000)](#)  
 
