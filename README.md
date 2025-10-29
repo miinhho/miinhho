@@ -19,12 +19,14 @@
 <br>
 
 ### Server With...  
+[![FastAPI](https://img.shields.io/badge/fastapi-109989?&logo=FASTAPI&logoColor=white)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 [![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)  
 
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](#)
 [![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?logo=typeorm&logoColor=fff)](#)
+[![Drizzle](https://img.shields.io/badge/drizzle-C5F74F?&logo=drizzle&logoColor=black)](#)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)](#)  
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
@@ -32,21 +34,20 @@
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
+[![Neo4j](https://img.shields.io/badge/Neo4j-018bff?&logo=neo4j&logoColor=white)](#)
 
 [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?&logo=nginx&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0.svg?&logo=docker&logoColor=white)](#)
 
 <br>
 
 ### Using...
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)  
-
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
+[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)  
 
-<br>
-
-### Like to hang out with
+[![Python](https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white)](#)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 
 <br>
