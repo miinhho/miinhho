@@ -15,6 +15,7 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 [![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![Shadcn](https://img.shields.io/badge/shadcn%2Fui-000000?&logo=shadcnui&logoColor=white)](#)
 
 <br>
 
